@@ -1,63 +1,86 @@
-# Ganisetti Veera Venkata Satyanarayana
+<!-- PROFILE README: Ganisetti Veera Venkata Satyanarayana -->
 
-**Robotics & Automation Engineer**  
-B.Tech in Robotics and Automation @ Manakula Vinayagar Institute of Technology  
-Founder of [Torch Bearer](https://thetorchbearer.in) – Lighting the future, transforming the world
-
----
-
-## 👨‍💻 About Me
-
-I’m a passionate and ambitious tech enthusiast working at the intersection of Robotics, AI, and Automation.  
-I enjoy building intelligent systems that solve real-world problems and improve quality of life.
-
-**Current Focus:**
-- Robotics and Embedded Systems  
-- Intelligent Automation  
-- Research in Neuro-Fuzzy Control  
-- Product development through TB Academy and TB Solutions
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Ganisetti+Veera+Venkata+Satyanarayana;Robotics+%26+Automation+Engineer;Founder+%7C+Torch+Bearer+Innovations;Let's+Build+Futuristic+Tech!" />
+</h1>
 
 ---
 
-## 🧠 Skills & Technologies
+## 👨‍💼 About Me
 
-**Languages**: C, C++, Python, JavaScript  
-**Tools**: Git, GitHub, VS Code, Arduino IDE, MATLAB  
-**Technologies**: PLC, Microcontrollers (8051, ATmega), SCADA, InduSoft, Raspberry Pi, IoT  
-**Domains**: Robotics, Automation, AI Avatars, Embedded Systems, Web Development
+I am **Ganisetti Veera Venkata Satyanarayana**, an aspiring **Robotics & Automation Engineer** with a passion for building futuristic solutions that improve lives.
 
----
+- 🎓 **B.Tech – Robotics & Automation Engineering**  
+  Manakula Vinayagar Institute of Technology  
+- 📚 **Diploma – Electronics & Communication Engineering**  
+  Dr. B. R. Ambedkar Polytechnic College, Yanam
 
-## 🔬 Academic Background
-
-- **B.Tech in Robotics and Automation Engineering**  
-  Manakula Vinayagar Institute of Technology, Puducherry (2024–2027)
-
-- **Diploma in Electronics and Communication Engineering**  
-  Dr. B. R. Ambedkar Polytechnic College, Yanam (2021–2024)
+Founder of **Torch Bearer Innovations**, a startup building technology that empowers the future.
 
 ---
 
-## 🧪 Featured Projects
+## 🚀 My Vision
 
-| Project | Description |
-|--------|-------------|
-| **AI Avatar System** | Software that revives human traits digitally for conversation and memory preservation |
-| **Smart Plant Management Robot** | Automates plant care using IoT and AI for smarter agriculture |
-| **Battery Management Charger (BMC)** | Extends battery life using intelligent charge cycles |
-| **RFID-based Speed Control System** | Automatically regulates vehicle speed in restricted zones |
-| **IoT-based SCADA Monitoring** | Real-time industrial control using InduSoft and PLC |
+> "To revolutionize human life using technology and bold entrepreneurship."
 
----
-
-## 🌍 Let's Connect
-
-- **Company Website**: [thetorchbearer.in](https://thetorchbearer.in)  
-- **LinkedIn**: [satyanarayanaganisetti](https://linkedin.com/in/satyanarayanaganisetti)  
-- **Email**: [ganisettisatish34@gmail.com](mailto:ganisettisatish34@gmail.com)  
-- **Portfolio**: [gvvsatyanarayana.in](https://gvvsatyanarayana.in)  
+My focus areas include:
+- Robotics & Embedded Systems
+- AI Avatars and Intelligent Automation
+- Smart Systems for Daily Life
+- Education and Digital Transformation
 
 ---
 
-> “Innovating today for a smarter tomorrow.”
+## 💼 Work & Projects
 
+| Project                                | Description                                                           |
+|----------------------------------------|-----------------------------------------------------------------------|
+| Vehicle Speed Control using Signboards | Automated speed regulation in restricted zones via RFID              |
+| Battery Management Charger (BMC)       | Smart charger increasing battery life by 20%                         |
+| AI Avatar – Rebirth of a Loved One     | Emotion-based AI that interacts like a real person                   |
+| Smart Plant Management Robot           | AI + IoT system for plant health and watering                        |
+| Industrial IoT Control via SCADA       | Remote control of equipment using InduSoft + PLC                     |
+| Robotics & Automation Hub              | Web/app platform for learners and project showcases                  |
+
+---
+
+## 🧠 Skills Snapshot
+
+txt
+Robotics | Embedded Systems | PLC Programming | AI & ML Basics
+Microcontrollers | C / C++ / Python | Git & GitHub | Web Development
+🔗 Let's Connect
+txt
+Copy
+Edit
+Company:      Torch Bearer Innovations
+Email:        ganisettisatish34@gmail.com
+Portfolio:    gvvsatyanarayana.in
+Website:      thetorchbearer.in
+LinkedIn:     linkedin.com/in/satyanarayanaganisetti
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satish1247&show_icons=true&theme=radical&hide=issues" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=satish1247&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish1247&layout=compact&theme=github_dark" /> </p>
+📌 Motto
+"Lightning the future, Transforming the world." – Torch Bearer
+
+This README is auto-curated to reflect professional tone, motion design via text animation, and a personalized portfolio overview.
+
+markdown
+Copy
+Edit
+
+---
+
+### ✅ What’s Unique About This README?
+
+- **Typing Animation Header** – using `readme-typing-svg`
+- **Professional Text Styling** – avoids emojis for clean presentation
+- **Structured Sections** – clear and impactful layout
+- **Responsive Design** – works great on desktop/mobile GitHub views
+- **GitHub Stats & Languages** – auto-fetched via public APIs
+
+Let me know if you want:
+- A dark-themed variant
+- Animated skill icons
+- Custom banner or header image
+- GitHub Action to auto-update stats
