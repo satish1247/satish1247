@@ -1,77 +1,63 @@
-<h1 align="center">Hi there, I'm Ganisetti Veera Venkata Satyanarayana 👋</h1>
+# Ganisetti Veera Venkata Satyanarayana
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Robotics+%26+Automation+Engineer;Founder+of+Torch+Bearer;Tech+Visionary+%7C+Innovator+%7C+Creator;AI+%26+Automation+Enthusiast;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
----
-
-### 🔥 About Me
-
-- 🎓 Pursuing B.Tech in **Robotics and Automation Engineering** @ MVIT
-- 🧠 Diploma in **Electronics & Communication Engineering**
-- 🧑‍💼 Founder of [TORCH BEARER](https://thetorchbearer.xyz) — **Empowering Tech Innovation**
-- 💡 Builder of creative solutions that aim to **transform human life**
-- 🚀 Passionate about **AI, Automation, Embedded Systems, and Robotics**
-- 🎯 Goal: To become the **world’s biggest entrepreneur**
+**Robotics & Automation Engineer**  
+B.Tech in Robotics and Automation @ Manakula Vinayagar Institute of Technology  
+Founder of [Torch Bearer](https://thetorchbearer.in) – Lighting the future, transforming the world
 
 ---
 
-### 🌟 Tech Stack
+## 👨‍💻 About Me
 
-- 💻 Languages: `C`, `C++`, `Python`, `Java`
-- 🤖 Tools: `Arduino`, `Raspberry Pi`, `PLC`, `SCADA`, `MATLAB`
-- 🛠 Platforms: `VS Code`, `Proteus`, `Tinkercad`, `Git`, `GitHub`
-- 📲 Web: `HTML`, `CSS`, `JavaScript`, `React (basic)`
-- ⚙️ Automation: `Embedded C`, `IoT`, `AI Chatbots`
+I’m a passionate and ambitious tech enthusiast working at the intersection of Robotics, AI, and Automation.  
+I enjoy building intelligent systems that solve real-world problems and improve quality of life.
 
----
-
-### 🚧 My Projects
-
-| 🔧 Project Name | 💡 Description |
-|----------------|----------------|
-| Battery Management Charger | Smart charging system for extended battery life |
-| Energy Meter using GSM | Remote energy monitoring system |
-| Vehicle Speed Control via RFID | Automated speed control using road signs |
-| Smart Plant Robot | AI-based plant health & watering system |
-| TB Robotics Hub | Web portal for students & engineers to share and learn robotics |
-
-👉 View all on: [My GitHub Repos](https://github.com/satish1247?tab=repositories)
+**Current Focus:**
+- Robotics and Embedded Systems  
+- Intelligent Automation  
+- Research in Neuro-Fuzzy Control  
+- Product development through TB Academy and TB Solutions
 
 ---
 
-### 🔗 Let's Connect
+## 🧠 Skills & Technologies
 
-- 🌐 Website: [gvvsatyanarayana.in](https://thetorchbearer.xyz)
-- 🔗 LinkedIn: [linkedin.com/in/satyanarayanaganisetti](https://www.linkedin.com/in/satyanarayanaganisetti)
-- 📧 Email: [ganisettisatish34@gmail.com](mailto:ganisettisatish34@gmail.com)
-- 🛠 Portfolio: [thetorchbearer.xyz](https://gvvssatyanaryana.in)
-
----
-
-### 🧠 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satish1247&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish1247&theme=radical" height="170px"/>
-</p>
+**Languages**: C, C++, Python, JavaScript  
+**Tools**: Git, GitHub, VS Code, Arduino IDE, MATLAB  
+**Technologies**: PLC, Microcontrollers (8051, ATmega), SCADA, InduSoft, Raspberry Pi, IoT  
+**Domains**: Robotics, Automation, AI Avatars, Embedded Systems, Web Development
 
 ---
 
-### 💬 Fun Fact
+## 🔬 Academic Background
 
-> _"The best way to predict the future is to invent it."_ – Alan Kay  
-> _Let's invent the future together through tech!_
+- **B.Tech in Robotics and Automation Engineering**  
+  Manakula Vinayagar Institute of Technology, Puducherry (2024–2027)
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satish1247&theme=onestar&row=1&column=6"/>
-</p>
+- **Diploma in Electronics and Communication Engineering**  
+  Dr. B. R. Ambedkar Polytechnic College, Yanam (2021–2024)
 
 ---
 
-### 🙌 Thanks for Visiting!
-> 🧡 Don't forget to follow and star some repos!
+## 🧪 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **AI Avatar System** | Software that revives human traits digitally for conversation and memory preservation |
+| **Smart Plant Management Robot** | Automates plant care using IoT and AI for smarter agriculture |
+| **Battery Management Charger (BMC)** | Extends battery life using intelligent charge cycles |
+| **RFID-based Speed Control System** | Automatically regulates vehicle speed in restricted zones |
+| **IoT-based SCADA Monitoring** | Real-time industrial control using InduSoft and PLC |
+
+---
+
+## 🌍 Let's Connect
+
+- **Company Website**: [thetorchbearer.in](https://thetorchbearer.in)  
+- **LinkedIn**: [satyanarayanaganisetti](https://linkedin.com/in/satyanarayanaganisetti)  
+- **Email**: [ganisettisatish34@gmail.com](mailto:ganisettisatish34@gmail.com)  
+- **Portfolio**: [gvvsatyanarayana.in](https://gvvsatyanarayana.in)  
+
+---
+
+> “Innovating today for a smarter tomorrow.”
 
