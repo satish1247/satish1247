@@ -43,10 +43,10 @@
 
 ### 🔗 Let's Connect
 
-- 🌐 Website: [gvvsatyanarayana.in](https://gvvsatyanarayana.in)
+- 🌐 Website: [gvvsatyanarayana.in](https://thetorchbearer.xyz)
 - 🔗 LinkedIn: [linkedin.com/in/satyanarayanaganisetti](https://www.linkedin.com/in/satyanarayanaganisetti)
 - 📧 Email: [ganisettisatish34@gmail.com](mailto:ganisettisatish34@gmail.com)
-- 🛠 Portfolio: [thetorchbearer.xyz](https://thetorchbearer.xyz)
+- 🛠 Portfolio: [thetorchbearer.xyz](https://gvvssatyanaryana.in)
 
 ---
 
