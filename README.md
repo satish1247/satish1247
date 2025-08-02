@@ -1,86 +1,77 @@
-<!-- PROFILE README: Ganisetti Veera Venkata Satyanarayana -->
+<h1 align="center">Hi there, I'm Ganisetti Veera Venkata Satyanarayana </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+%2C+I'm+Ganisetti+Veera+Venkata+Satyanarayana;Robotics+%26+Automation+Engineer;Founder+%7C+Torch+Bearer+Innovations;Let's+Build+Futuristic+Tech!" />
-</h1>
-
----
-
-## 👨‍💼 About Me
-
-I am **Ganisetti Veera Venkata Satyanarayana**, an aspiring **Robotics & Automation Engineer** with a passion for building futuristic solutions that improve lives.
-
-- 🎓 **B.Tech – Robotics & Automation Engineering**  
-  Manakula Vinayagar Institute of Technology  
-- 📚 **Diploma – Electronics & Communication Engineering**  
-  Dr. B. R. Ambedkar Polytechnic College, Yanam
-
-Founder of **Torch Bearer Innovations**, a startup building technology that empowers the future.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Robotics+%26+Automation+Engineer;Founder+of+Torch+Bearer;Tech+Visionary+%7C+Innovator+%7C+Creator;AI+%26+Automation+Enthusiast;Welcome+to+my+GitHub+space+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 My Vision
+### About Me
 
-> "To revolutionize human life using technology and bold entrepreneurship."
-
-My focus areas include:
-- Robotics & Embedded Systems
-- AI Avatars and Intelligent Automation
-- Smart Systems for Daily Life
-- Education and Digital Transformation
-
----
-
-## 💼 Work & Projects
-
-| Project                                | Description                                                           |
-|----------------------------------------|-----------------------------------------------------------------------|
-| Vehicle Speed Control using Signboards | Automated speed regulation in restricted zones via RFID              |
-| Battery Management Charger (BMC)       | Smart charger increasing battery life by 20%                         |
-| AI Avatar – Rebirth of a Loved One     | Emotion-based AI that interacts like a real person                   |
-| Smart Plant Management Robot           | AI + IoT system for plant health and watering                        |
-| Industrial IoT Control via SCADA       | Remote control of equipment using InduSoft + PLC                     |
-| Robotics & Automation Hub              | Web/app platform for learners and project showcases                  |
+- Pursuing B.Tech in **Robotics and Automation Engineering** @ MVIT
+- Diploma in **Electronics & Communication Engineering**
+- Founder of [TORCH BEARER](https://thetorchbearer.xyz) — **Empowering Tech Innovation**
+- Builder of creative solutions that aim to **transform human life**
+- Passionate about **AI, Automation, Embedded Systems, and Robotics**
+- Goal: To become the **world’s biggest entrepreneur**
 
 ---
 
-## 🧠 Skills Snapshot
+### Tech Stack
 
-txt
-Robotics | Embedded Systems | PLC Programming | AI & ML Basics
-Microcontrollers | C / C++ / Python | Git & GitHub | Web Development
-🔗 Let's Connect
-txt
-Copy
-Edit
-Company:      Torch Bearer Innovations
-Email:        ganisettisatish34@gmail.com
-Portfolio:    gvvsatyanarayana.in
-Website:      thetorchbearer.in
-LinkedIn:     linkedin.com/in/satyanarayanaganisetti
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satish1247&show_icons=true&theme=radical&hide=issues" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=satish1247&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish1247&layout=compact&theme=github_dark" /> </p>
-📌 Motto
-"Lightning the future, Transforming the world." – Torch Bearer
-
-This README is auto-curated to reflect professional tone, motion design via text animation, and a personalized portfolio overview.
-
-markdown
-Copy
-Edit
+- 💻 Languages: `C`, `Python`,
+- 🤖 Tools: `Arduino`, `Raspberry Pi`, `PLC`, `SCADA`, `MATLAB`
+- 🛠 Platforms: `VS Code`, `Proteus`, `Tinkercad`, `Git`, `GitHub`
+- ⚙️ Automation: `Embedded C`, `IoT`, `AI Chatbots`
 
 ---
 
-### ✅ What’s Unique About This README?
+### My Projects
 
-- **Typing Animation Header** – using `readme-typing-svg`
-- **Professional Text Styling** – avoids emojis for clean presentation
-- **Structured Sections** – clear and impactful layout
-- **Responsive Design** – works great on desktop/mobile GitHub views
-- **GitHub Stats & Languages** – auto-fetched via public APIs
+| Project Name | Description |
+|----------------|----------------|
+| Battery Management Charger | Smart charging system for extended battery life |
+| Energy Meter using GSM | Remote energy monitoring system |
+| Vehicle Speed Control via RFID | Automated speed control using road signs |
+| Smart Plant Robot | AI-based plant health & watering system |
+| TB Robotics Hub | Web portal for students & engineers to share and learn robotics |
 
-Let me know if you want:
-- A dark-themed variant
-- Animated skill icons
-- Custom banner or header image
-- GitHub Action to auto-update stats
+View all on: [My GitHub Repos](https://github.com/satish1247?tab=repositories)
+
+---
+
+### Let's Connect
+
+Website     : [thetorchbearer.in](https://thetorchbearer.in)  
+LinkedIn    : [satyanarayanaganisetti](https://www.linkedin.com/in/satyanarayanaganisetti)  
+Portfolio   : [gvvsatyanarayana.in](https://gvvsatyanarayana.in)  
+Email       : ganisettisatish34@gmail.com  
+Projects    : [GitHub Repositories](https://github.com/satish1247?tab=repositories)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satish1247&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satish1247&theme=radical" height="170px"/>
+</p>
+
+---
+
+### Fun Fact
+
+> _"The best way to predict the future is to invent it."_ – Alan Kay  
+> _Let's invent the future together through tech!_
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=satish1247&theme=onestar&row=1&column=6"/>
+</p>
+
+---
+
+### Thanks for Visiting!
+> Don't forget to follow and star some repos!
+
